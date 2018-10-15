@@ -1,0 +1,1 @@
+A sample for Hunter-Okhttp-Plugin
